@@ -25,7 +25,7 @@ null,
 {"id":23,"expanded":false,"name":"inside_aut","order":23,"parentId":20,"scrollX":0,"scrollY":0},
 {"id":24,"expanded":false,"name":"chapter4","order":24,"parentId":20,"scrollX":0,"scrollY":0},
 {"id":25,"expanded":false,"name":"counseling","order":25,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":26,"expanded":false,"name":"mini_story","order":26,"parentId":0,"scrollX":655.2,"scrollY":356.4},
+{"id":26,"expanded":false,"name":"mini_story","order":26,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":27,"expanded":false,"name":"ending","order":29,"parentId":0,"scrollX":655.2,"scrollY":356.4},
 {"id":28,"expanded":false,"name":"ep_start","order":28,"parentId":0,"scrollX":655.2,"scrollY":356.4},
 {"id":29,"expanded":false,"name":"unconscious","order":27,"parentId":0,"scrollX":655.2,"scrollY":356.4}
